@@ -1,6 +1,6 @@
-# Hi everyone! 👋 Welcome to My GitHub Profile!
-
 ![EthereumBanner](https://github.com/user-attachments/assets/1c9f74d0-43b4-42c1-b98b-d35154c9e374)
+
+# Hi everyone! 👋 Welcome to My GitHub Profile!
 
 ---
 
@@ -21,10 +21,10 @@ My passion lies in building and supporting **decentralized systems** and explori
 ---
 
 ## 🌐 Connect With Me
-  
-[![Twitter](https://x.com/pintosric)
-[![Youtube](https://www.youtube.com/@PintosRic)
-[![LinkedIn](https://www.linkedin.com/in/ricardo-mauro-pintos/)
+
+[![Ricardo Pintos Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pintosric)
+[![Ricardo Pintos YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PintosRic)
+[![Ricardo Pintos Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-mauro-pintos/)
 
 ---
 
