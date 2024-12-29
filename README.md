@@ -32,11 +32,11 @@ My passion lies in building and supporting **decentralized systems** and explori
 
 ## Projects
 
+### [**Foundry DEFI Stablecoin**](https://github.com/RicardoPintos/foundry-defi-stablecoin)
+With this Foundry project you can create an anchored, algorithmic and exogenous stablecoin.
+
 ### [**Foundry Smart Contract Lottery**](https://github.com/RicardoPintos/foundry-smart-contract-lottery)
 This is a Foundry Smart Contract Lottery.
-
-### [**Foundry Fund Me**](https://github.com/RicardoPintos/foundry-fund-me)
-A Foundry project that can create a simple Fund Me contract.
 
 ---
 
