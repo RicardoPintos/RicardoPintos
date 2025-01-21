@@ -1,4 +1,4 @@
-![LokapalSmall](https://github.com/user-attachments/assets/68a0be53-f034-4294-8fac-8cec5d5b8c5f)
+![LokapalBanner](https://github.com/user-attachments/assets/cbf451ed-09cc-4af1-b820-b8766295f766)
 
 # Welcome to My GitHub Profile!
 
