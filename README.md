@@ -1,4 +1,4 @@
-![EthereumBanner](https://github.com/user-attachments/assets/1c9f74d0-43b4-42c1-b98b-d35154c9e374)
+![LokapalSmall](https://github.com/user-attachments/assets/68a0be53-f034-4294-8fac-8cec5d5b8c5f)
 
 # Welcome to My GitHub Profile!
 
@@ -45,4 +45,4 @@ The first step in making secure smart contracts is **understanding how they brea
 
 ---
 
-![Lets decentralize Footer](https://github.com/user-attachments/assets/4533f11d-84d0-478d-b0aa-fd44d96b465b)
+![EthereumBanner](https://github.com/user-attachments/assets/1c9f74d0-43b4-42c1-b98b-d35154c9e374)
