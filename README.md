@@ -6,7 +6,10 @@
 
 ## About Me
 
-Hello! My name is Ricardo Pintos. I'm a **Blockchain Developer** specializing in **Solidity**, **Foundry**, and **Assembly**.  
+Hello! My name is Ricardo Pintos. I'm a **Blockchain Developer** specializing in **Solidity**, **Foundry**, and **Assembly**.
+
+**Lokapal** is my personal initiative for blockchain security research and smart contract audits.
+
 My passion lies in building and supporting **decentralized systems** and exploring the cutting-edge of **smart contract security**.  
 
 **Aiming to Become:** A skilled **Smart Contract Security Researcher**, ensuring blockchain ecosystems are secure and resilient.
