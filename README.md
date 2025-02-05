@@ -6,13 +6,11 @@
 
 ## About Me
 
-Hello! My name is Ricardo Pintos. I'm a **Blockchain Developer** specializing in **Solidity**, **Foundry**, and **Assembly**.
+Hello! My name is Ricardo Pintos. I'm a **Blockchain Security Researcher** specializing in **Solidity** and **Foundry**.
 
 **Lokapal** is my personal initiative for blockchain security research and smart contract audits.
 
 My passion lies in building and supporting **decentralized systems** and exploring the cutting-edge of **smart contract security**.  
-
-**Aiming to Become:** A skilled **Smart Contract Security Researcher**, ensuring blockchain ecosystems are secure and resilient.
 
 ---
 
@@ -33,13 +31,16 @@ My passion lies in building and supporting **decentralized systems** and explori
 
 ---
 
-## Projects
+## Security Reviews
 
-### [**Foundry DEFI Stablecoin**](https://github.com/RicardoPintos/foundry-defi-stablecoin)
-With this Foundry project you can create an anchored, algorithmic and exogenous stablecoin.
+### [**CodeHawks Competitive Audits**](https://github.com/RicardoPintos/codehawks-competitive-audits)
+This is my portfolio of Cyfrin CodeHawks competitive audits
 
-### [**Foundry Smart Contract Lottery**](https://github.com/RicardoPintos/foundry-smart-contract-lottery)
-This is a Foundry Smart Contract Lottery.
+### [**CodeHawks First Flights**](https://github.com/RicardoPintos/codehawks-first-flights)
+This is my portfolio of Cyfrin CodeHawks First Flights
+
+### [**Updraft's Security Reviews**](https://github.com/RicardoPintos/updraft-security-reviews)
+This is my portfolio of Cyfrin Updraft security reviews
 
 ---
 
