@@ -1,25 +1,11 @@
 ![LokapalBanner](https://github.com/user-attachments/assets/5358f442-06f3-4bf4-b22f-fbefb2743762)
 
-# Welcome to My GitHub Profile!
-
----
-
 ## About Me
 
-Hello! My name is Ricardo Pintos. I'm a **Blockchain Security Researcher** specializing in **Solidity** and **Foundry**.
+Hello! My name is Ricardo Pintos. I'm a **Blockchain Security Researcher** specializing in **DAOs** and **Governance Attacks**.
 
 **Lokapal** is my personal initiative for blockchain security research and smart contract audits.
 
-My passion lies in building and supporting **decentralized systems** and exploring the cutting-edge of **smart contract security**.  
-
----
-
-## Skills & Tools
-- **Programming Languages:** Solidity, Assembly
-- **Development Frameworks:** Foundry
-- **Interests:** Decentralized Systems, Blockchain Security, Cryptography
-
----
 
 ## Connect With Me
 
