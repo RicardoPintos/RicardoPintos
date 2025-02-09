@@ -30,9 +30,5 @@ This is my portfolio of Cyfrin Updraft security reviews
 
 ---
 
-## Fun Fact
-The first step in making secure smart contracts is **understanding how they break!**
-
----
 
 ![EthereumBanner](https://github.com/user-attachments/assets/1c9f74d0-43b4-42c1-b98b-d35154c9e374)
