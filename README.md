@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hello! My name is Ricardo Pintos. I'm a **Blockchain Security Researcher** specializing in **DAOs** and **Governance Attacks**.
+Hello! My name is Ricardo Pintos. I'm a **DeGov Security Researcher** specializing in **DAOs**.
 
-**Lokapal** is my personal initiative for blockchain security research and smart contract audits.
+**Lokapal** is my personal initiative for Decentralize Governance security research and audits.
 
 
 ## Connect With Me
