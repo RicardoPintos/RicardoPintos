@@ -1,10 +1,10 @@
-![LokapalBanner](https://github.com/user-attachments/assets/5358f442-06f3-4bf4-b22f-fbefb2743762)
+![LokapalBanner](https://github.com/user-attachments/assets/5509e1f8-9f31-4141-8975-02132a1ba63e)
 
 ## About Me
 
 Hello! My name is Ricardo Pintos. I'm a **DeGov Security Researcher** specializing in **DAOs**.
 
-**Lokapal** is my personal initiative for Decentralize Governance security research and audits.
+**Lokapal** is my personal initiative for Decentralize Governance Security Services – Audits, Consulting & Protocol Security.
 
 
 ## Connect With Me
