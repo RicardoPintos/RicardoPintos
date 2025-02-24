@@ -1,7 +1,6 @@
-![Lokapal](https://github.com/user-attachments/assets/e32dd766-54c7-4401-bb82-31e0084e5756)
+![LokapalBanner](https://github.com/user-attachments/assets/b2c22968-33c9-45b7-ad12-321ea8f6a8bb)
 
 ## About Me
-
 
 Hello! My name is Ricardo Pintos. I'm a **Decentralize Governance Security Researcher** specializing in **DAOs**.
 
