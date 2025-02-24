@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is Ricardo Pintos. I'm a **Decentralize Governance Researcher** specializing in **DAOs**.
+Hello! My name is Ricardo Pintos. I'm a **Decentralized Governance Researcher** specializing in **DAOs**.
 
 **Lokapal** is my personal initiative for DAO Consulting and Security Services.
 
@@ -19,11 +19,8 @@ Hello! My name is Ricardo Pintos. I'm a **Decentralize Governance Researcher** s
 
 ## Security Reviews
 
-### [**CodeHawks Competitive Audits**](https://github.com/RicardoPintos/codehawks-competitive-audits)
-This is my portfolio of Cyfrin CodeHawks competitive audits
-
-### [**CodeHawks First Flights**](https://github.com/RicardoPintos/codehawks-first-flights)
-This is my portfolio of Cyfrin CodeHawks First Flights
+### [**Security Reviews**](https://github.com/RicardoPintos/security-reviews)
+This is my portfolio of security reviews
 
 ### [**Updraft's Security Reviews**](https://github.com/RicardoPintos/updraft-security-reviews)
 This is my portfolio of Cyfrin Updraft security reviews
