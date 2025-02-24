@@ -6,7 +6,6 @@ Hello! My name is Ricardo Pintos. I'm a **Decentralized Governance Researcher** 
 
 **Lokapal** is my personal initiative for DAO Consulting and Security Services.
 
-
 ## Connect With Me
 
 
@@ -28,4 +27,5 @@ This is my portfolio of Cyfrin Updraft security reviews
 ---
 
 
-![EthereumBanner](https://github.com/user-attachments/assets/1c9f74d0-43b4-42c1-b98b-d35154c9e374)
+![HowToDAO_optimized](https://github.com/user-attachments/assets/55356c02-9bdd-40eb-b31b-31d6c330b01d)
+
