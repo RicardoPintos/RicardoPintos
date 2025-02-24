@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hello! My name is Ricardo Pintos. I'm a **Decentralize Governance Security Researcher** specializing in **DAOs**.
+Hello! My name is Ricardo Pintos. I'm a **Decentralize Governance Researcher** specializing in **DAOs**.
 
-**Lokapal** is my personal initiative for DeGov Consulting and Security Services.
+**Lokapal** is my personal initiative for DAO Consulting and Security Services.
 
 
 ## Connect With Me
