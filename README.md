@@ -26,6 +26,5 @@ This is my portfolio of Cyfrin Updraft security reviews
 
 ---
 
-
-![HowToDAO_optimized](https://github.com/user-attachments/assets/55356c02-9bdd-40eb-b31b-31d6c330b01d)
+![HowToDAO](https://github.com/user-attachments/assets/1431e57c-3b7f-48e3-ac6b-7d633ebcf24f)
 
