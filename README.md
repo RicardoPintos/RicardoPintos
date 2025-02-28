@@ -1,4 +1,4 @@
-![LokapalBanner](https://github.com/user-attachments/assets/b2c22968-33c9-45b7-ad12-321ea8f6a8bb)
+<img src="https://github.com/user-attachments/assets/b2c22968-33c9-45b7-ad12-321ea8f6a8bb" alt="Lokapal">
 
 ## About Me
 
